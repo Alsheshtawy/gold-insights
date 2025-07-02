@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sherif</h1>
-- My graduation project [gold insights prediction](https://github.com/Alsheshtawy/gold-insights)
+
 
 - 📫 How to reach me **ayadm8461@gmail.com**
 
